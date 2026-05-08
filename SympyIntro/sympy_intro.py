@@ -75,12 +75,12 @@ def prob6():
 
     Plot the polynomial and its critical points over [-5,5]. Determine which
     points are maxima and which are minima. Plot the maxima in one color and the
-    minima in another color. Return the minima and maxima (x values) as two
-    separate sets.
+    minima in another color. Return the x-values corresponding to the local
+    minima and local maxima as two separate sets.
 
     Returns:
-        (set): the local minima.
-        (set): the local maxima.
+        (set): the local minimizers (x-values).
+        (set): the local maximizers (x-values).
     """
     raise NotImplementedError("Problem 6 Incomplete")
 
